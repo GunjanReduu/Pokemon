@@ -1,0 +1,147 @@
+li {
+  display: inline;
+  margin: 20px;
+}
+
+li img {
+  width: 100px;
+  border-radius: 50%;
+  border: 30px #662e9b double;
+}
+
+.k {
+  background: url("bbb/giphy.gif");
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Kanit", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 35px;
+  color: #fcf6bd;
+  text-shadow: 4px 4px 6px black;
+}
+
+.g {
+  background-color: #ea3546;
+  font-size: 23px;
+  color: #fcf6bd;
+}
+
+body {
+  background-color: #98f5e1;
+  margin: 10px;
+}
+
+.y {
+  background-color: #ffb703;
+  padding: 10px;
+  text-align: center;
+  color: #fcf6bd;
+  border: 20px dashed #f94144;
+  margin: 10px;
+}
+
+.h {
+  background-color: #fb5607;
+  text-align: center;
+  color: #fcf6bd;
+  padding: 10px;
+}
+
+th {
+  background-color: #f72585;
+  padding: 15px;
+  font-size: 25px;
+}
+
+td {
+  background-color: #8338ec;
+  padding: 30px;
+}
+
+.d img {
+  width: 550px;
+  height: 500px;
+}
+
+.d {
+  display: flex;
+  justify-content: center;
+}
+
+.i {
+  text-align: center;
+  background-color: #8338ec;
+  margin: 10px;
+  padding: 10px;
+  color: #fcf6bd;
+  border: 20px dashed #ff9500;
+}
+
+.c {
+  background-color: #ffbd00;
+  color: #fcf6bd;
+  text-align: center;
+  width: 380px;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.c img {
+  width: 380px;
+  height: 350px;
+}
+
+.a {
+  display: flex;
+  justify-content: center;
+}
+
+.l {
+  color: #fcf6bd;
+  text-align: center;
+  background-color: #fb5607;
+}
+
+.z {
+  background-color: #06d6;
+  color: #fcf6bd;
+  margin: 10px;
+  width: 350px;
+  height: 350px;
+  text-align: center;
+  border-radius: 10px;
+  padding-bottom: 15px;
+}
+
+.b {
+  background-color: #00b4d8;
+  display: flex;
+  justify-content: center;
+}
+
+.z img {
+  width: 250px;
+  height: 250px;
+  margin-top: 40px;
+}
+
+button {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #fb5607;
+  border-radius: 30px;
+  border-color: #cfbaf0;
+  border-width: 10px;
+  border-style: double;
+  margin-bottom: 20px;
+}
+
+a{
+  color: #cfbaf0;
+  text-decoration: none;
+}
